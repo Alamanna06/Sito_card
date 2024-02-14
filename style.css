@@ -1,0 +1,39 @@
+.card{
+
+    border: 1px solid grey;
+    border-radius: 5px;
+    max-width: 100%;
+    overflow:hidden;
+}
+
+
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.card-title{
+    text-align: center;
+    font: size 24px;
+    margin-top: -2px;
+
+}
+
+.card-text{
+
+    margin-left: 10px;
+}
+
+.mb-3{
+    border:2px solid black;
+    max-width: 350px;
+
+    font-size: smaller;
+
+    position: absolute;
+    top: 0;
+    right: 200px;
+
+}
+
